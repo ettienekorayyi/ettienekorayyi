@@ -9,6 +9,7 @@ I'm a passionate learner and I love helping people by utilizing my programming s
 **My recent activities:**
 - 🌱 I’m currently learning Unix Systems Programming thru Bash and Python
 - 🔭 I’m currently the maintainer of project Taskstech's front end side of things from Code.Sydney
+- I'm currently developing my website portfolio using React.
 
 <!--
 **ettienekorayyi/ettienekorayyi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
