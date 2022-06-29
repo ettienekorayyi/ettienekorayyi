@@ -7,7 +7,7 @@ I'm an aspiring full stack developer and a current student at UTS taking up grad
 I'm a passionate learner and I love helping people by utilizing my programming skills through volunteering..
 
 **My recent activities:**
-- 🌱 I’m currently learning Unix Systems Programming thru Bash and Python
+- 🌱 I’ve recently completed learning Unix Systems Programming with Bash and Python(Uni).
 - 🔭 I’m currently the maintainer of project Taskstech's front end side of things from Code.Sydney
 - 🔨 I'm currently developing my website portfolio version 2 using React.
       Link: https://ettienekorayyi.github.io/portfolio_v2/
