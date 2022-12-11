@@ -7,7 +7,7 @@ I'm a full stack developer and a current student at UTS taking up graduate certi
 I'm a passionate learner and I love helping people by utilizing my programming skills through volunteering..
 
 **My recent activities:**
-- 🌱 Recently completed the subject Application Development in C# at UTS.
+- 🌱 Recently completed the subject Application Development in C# at UTS with high distinction.
 - ✨ I’ve recently completed UNIX Systems Programming with Bash and Python(Uni) with distinction.
 - 🔭 I’m currently the maintainer of project Taskstech's front end side of things from Code.Sydney
 - 🔨 I'm currently developing my website portfolio version 2 using React.
