@@ -4,12 +4,13 @@
 
 **About Me:**
 I'm a full stack developer and a current student at UTS taking up graduate certificate in engineering. 
-I'm a passionate learner and I love helping people by utilizing my programming skills through volunteering..
+I'm a passionate learner and I love helping people by utilizing my programming skills through volunteering.
 
 **My recent activities:**
-- 🌱 Recently completed the subject Application Development in C# at UTS with high distinction(95/100).
-- ✨ I’ve recently completed UNIX Systems Programming with Bash and Python(Uni) with distinction.
-- 🔭 I’m currently the maintainer of project Taskstech's front end side of things from Code.Sydney
+- ✨ I’ve completed Cloud Computing and Software as a Service at UTS with High Distinction(88/100).
+- ✨ I've completed the subject Application Development in C# at UTS with High Distinction(95/100).
+- ✨ I’ve completed UNIX Systems Programming with Bash and Python(Uni) with distinction.
+- 🔭 I’m currently the maintainer of project Worklog front end side of things from Code.Sydney
 - 🔨 I'm currently developing my website portfolio version 2 using React.
       Link: https://ettienekorayyi.github.io/portfolio_v2/
 
