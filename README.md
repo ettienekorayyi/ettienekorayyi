@@ -3,7 +3,7 @@
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/stephen-melben-corral-73468b6b)
 
 **About Me:**
-I'm a full stack developer and a current student at UTS taking up graduate certificate in engineering. 
+I'm a full stack developer and I completed graduate certificate in engineering at UTS. 
 I'm a passionate learner and I love helping people by utilizing my programming skills through volunteering.
 
 **My recent activities:**
