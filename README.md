@@ -11,8 +11,6 @@ As a passionate learner and volunteer, I enjoy using my programming skills to su
 - 🏅 Completed **Cloud Computing and SaaS** at UTS — *High Distinction (88/100)*
 - 🏅 Completed **Application Development in C#** — *High Distinction (95/100)*
 - ✅ Completed **UNIX Systems Programming (Bash + Python)** — *Distinction*
-- 🛠️ Maintainer of **Worklog Frontend** at Code.Sydney  
-  → Currently developing the backend using C# and Clean Architecture
 - 🔧 Yearly updates + maintenance for the **Parramatta Eisteddfod** platform
 - 🧠 Learning **Data Structures & Algorithms** and **relearning DBMS**
 - 💻 Building **Portfolio Website V2** with React  
