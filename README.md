@@ -7,7 +7,7 @@ I'm a full-stack developer with a passion for building meaningful applications t
 
 As a passionate learner and volunteer, I enjoy using my programming skills to support nonprofit and civic tech initiatives. I'm especially interested in contributing to open-source projects that create real-world value and lasting social impact.
 
-**🚀 My Recent Highlights:**
+**🚀 My Highlights:**
 - 🏅 Completed **Cloud Computing and SaaS** at UTS — *High Distinction (88/100)*
 - 🏅 Completed **Application Development in C#** — *High Distinction (95/100)*
 - ✅ Completed **UNIX Systems Programming (Bash + Python)** — *Distinction*
@@ -25,17 +25,11 @@ As a passionate learner and volunteer, I enjoy using my programming skills to su
 - Tools: Git, Docker, SQL Server, Linux, Visual Studio Code
 - DevOps: GitHub Actions, Fly.io (deploying .NET apps)
 
-<!--
-**ettienekorayyi/ettienekorayyi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🌱 What I'm Exploring/ My Interests
+- Open-source contributions in nonprofit and civic tech spaces
+- Smart systems and IoT integration with .NET
+- AI-powered tools to support social good
 
-Here are some ideas to get you started:
+## 🤝 Let’s Connect
+Feel free to reach out if you're working on nonprofit tech or open source – I’d love to collaborate!
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
